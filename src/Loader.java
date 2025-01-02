@@ -41,7 +41,7 @@ public class Loader {
                     System.out.println("You choose wrong operation!");
                     operand1 = 0;
             }
-            System.out.println("The result is:" + operand1);
+            System.out.println("Salam Aleykum" + operand1);
         }
     }
 }
